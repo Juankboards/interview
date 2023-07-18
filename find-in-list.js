@@ -1,13 +1,9 @@
-/*Input:
-Initially you get a list of strings
+/*Input: String
 
-'earth', 'jupiter', microscope',...
-
-then you get a word and have to find if is in initial list
-
+Keep track of words entered
 
 Output: Boolean
 */
 
-function isInList(word) {}
+function listOfWords(word) {}
 
